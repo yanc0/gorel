@@ -9,3 +9,4 @@ deploy:
   on:
     repo: yanc0/gorel
 tags: true
+all_branches: true
